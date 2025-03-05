@@ -18,4 +18,4 @@ DATO obtenerDato(Nodo* n);
 Nodo* asignar_referencia(Nodo* n, Nodo* e);
 Nodo* obtener_referencia(Nodo* n);
 
-#endif // NODO_H
+#endif 
